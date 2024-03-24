@@ -13,7 +13,11 @@ La pila invierte el orden de los números, mientras que la cola mantiene el orde
 La razón de utilizar pilas y colas es para realizar operaciones específicas en los números, como invertir el orden con la pila y mantener el orden original con la cola. Estos métodos son comunes en programación para manipular datos de manera estructurada y realizar operaciones según sea necesario.
 
 INTEGRANTES 
+
 Bryan Recinos || 7690-19-18053
+
 Edwin Tzunux || 7691-17-325
+
 Cristhian Barrientos || 7690 - 20 – 3889
+
 Guillermo Chamalé || 7691-21-7580
